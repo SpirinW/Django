@@ -58,7 +58,7 @@
 Вот как выглядит интерфейс вашего конвертера валют:
 
 ![Скриншот 1](https://github.com/SpirinW/Django/blob/main/currency_converter/screenshots/1.png)
-![Скриншот 2](https://github.com/SpirinW/Django/blob/main/currency_converter/screenshots/1.png)
+![Скриншот 2](https://github.com/SpirinW/Django/blob/main/currency_converter/screenshots/2.png)
 
 ## Структура проекта
 
